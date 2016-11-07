@@ -1,0 +1,9 @@
+package com.zhp.demo;
+
+public class HelloWorld {
+	public String sayHello(){
+//		return null;
+		return "hello zhp";
+	}
+
+}
